@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T02:26:11.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wfrYH-ea_bP6CNQFDsOJ" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T03:26:48.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="adVqoebpdzdhqe8alMyx" version="23.1.5" type="github">
   <diagram name="Page-1" id="FB_v1KUi_isar1U8KDkH">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="spBlb2e0U2WBh5Fl4eiT-6" value="Perpus Diggital" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="spBlb2e0U2WBh5Fl4eiT-7" value="From pengunjung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="spBlb2e0U2WBh5Fl4eiT-7" value="Fom pengunjung" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="195" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="spBlb2e0U2WBh5Fl4eiT-8" value="Pencarian buku" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -34,10 +34,10 @@
         <mxCell id="spBlb2e0U2WBh5Fl4eiT-10" value="Laporan&lt;br&gt;statistik" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="525" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="spBlb2e0U2WBh5Fl4eiT-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="spBlb2e0U2WBh5Fl4eiT-11" value="pengunjung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="100" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="spBlb2e0U2WBh5Fl4eiT-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="spBlb2e0U2WBh5Fl4eiT-12" value="Pustakawan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="250" width="100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="spBlb2e0U2WBh5Fl4eiT-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="spBlb2e0U2WBh5Fl4eiT-11" target="spBlb2e0U2WBh5Fl4eiT-2">
